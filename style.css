@@ -1,0 +1,74 @@
+a{
+  text-decoration: none;
+}
+.Atribut
+{
+  
+  display: block;
+  background-color: rgb(8, 252, 0);
+  
+  
+}
+.rgb
+{
+  display: inline-block;
+  width: 30%;
+  border: 2px solid black;
+  
+}
+.link
+{
+  display: inline-block;
+  background-color: rgb(8, 252, 0);
+  width: 30%;
+  color:black;
+  border: 2px solid black;
+  
+}
+.apple
+{
+  display: inline-block;
+  width: 30%;
+  color: black;
+  background-color: crimson;
+  border: 2px solid black;
+  
+}
+
+.blou{
+  color:rgb(8, 252, 0); ;
+}
+
+.color{
+color:crimson;
+}
+
+.text{
+  display: inline-block;
+  width: 45%;
+  background-color:lightpink;
+  
+}
+.photo{
+  display: inline-block;
+  width: 45%;
+  background-color: ivory;
+  
+}
+
+.list{
+  display: inline-block;
+}
+
+.img{
+  display: inline-block;
+  width: 20%;
+}
+.box{
+  border: 2px solid black;
+  display: inline-block;
+  width: 700px;
+}
+.book{
+  border: 2px solid black;
+}
